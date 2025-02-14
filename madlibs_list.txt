@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Friend's Name
 2. Adjective
 3. Adjective
@@ -13,9 +14,37 @@
 13. Material
 14. Activity
 15. Adverb
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+=======
+1. Friend's Name: Jimmy
+2. Adjective: microscopic
+3. Adjective: pitiful
+4. Color: red
+5. Month: August
+6. Number : 43
+7. Noun (Plural) : boxes
+8. Noun (Plural) : dogs
+9. Noun : book
+10. Room Name : 1945
+11. Liquid : soda
+12. Adjective : long
+13. Material : steel
+14. Activity : running
+15. Adverb : tomorrow
+16. Number : 23
+6. Number : 8
+7. Noun (Plural): firefighters
+8. Noun (Plural): dogs
+9. Noun: beef wellington
+10. Room Name: boiler room
+11. Liquid : oil
+12. Adjective : big
+13. Material : gold
+14. Activity : reading
+15. Adverb : quickly
+>>>>>>> 6f80248c54564cef793ebce55b06eb1b49094f6e
+16. Number : 13
+17. Unit of Time : hours
+18. Different Activity : swimmming
+19. Adjective : slim
+20. Vehicle : Dodge
+21. Your Name : Genaro
