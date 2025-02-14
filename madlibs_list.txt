@@ -3,17 +3,28 @@
 3. Adjective: pitiful
 4. Color: red
 5. Month: August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number : 43
+7. Noun (Plural) : boxes
+8. Noun (Plural) : dogs
+9. Noun : book
+10. Room Name : 1945
 11. Liquid : soda
 12. Adjective : long
 13. Material : steel
 14. Activity : running
 15. Adverb : tomorrow
 16. Number : 23
+6. Number : 8
+7. Noun (Plural): firefighters
+8. Noun (Plural): dogs
+9. Noun: beef wellington
+10. Room Name: boiler room
+11. Liquid : oil
+12. Adjective : big
+13. Material : gold
+14. Activity : reading
+15. Adverb : quickly
+16. Number : 13
 17. Unit of Time : hours
 18. Different Activity : swimmming
 19. Adjective : slim
