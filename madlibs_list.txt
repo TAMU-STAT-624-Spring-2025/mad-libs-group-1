@@ -12,7 +12,7 @@
 12. Adjective
 13. Material
 14. Activity
-15. Adverb : quickly
+15. Adverb
 16. Number : 13
 17. Unit of Time : hours
 18. Different Activity : reading
