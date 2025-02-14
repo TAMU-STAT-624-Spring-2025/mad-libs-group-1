@@ -3,11 +3,11 @@
 3. Adjective: pitiful
 4. Color: red
 5. Month: August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number: 8
+7. Noun (Plural): firefighters
+8. Noun (Plural): dogs
+9. Noun: beef wellington
+10. Room Name: boiler room
 11. Liquid
 12. Adjective
 13. Material
