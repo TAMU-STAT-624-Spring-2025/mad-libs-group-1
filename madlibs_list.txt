@@ -3,10 +3,10 @@
 3. Adjective: attractive
 4. Color: blue
 5. Month: August
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
+6. Number: 8
+7. Noun (Plural): toxicologists
+8. Noun (Plural): uber drivers
+9. Noun: beef wellington
 10. Room Name : 1945
 11. Liquid : oil
 12. Adjective : big
