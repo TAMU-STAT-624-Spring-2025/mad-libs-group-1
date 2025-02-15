@@ -7,12 +7,12 @@
 7. Noun (Plural)
 8. Noun (Plural)
 9. Noun
-10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+10. Room Name : 1945
+11. Liquid : oil
+12. Adjective : big
+13. Material : steel
+14. Activity : swimming
+15. Adverb : much
 16. Number : 13
 17. Unit of Time : seconds
 18. Different Activity : reading
